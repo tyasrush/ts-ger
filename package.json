@@ -1,0 +1,23 @@
+{
+  "name": "ts-ger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyasrush/ts-ger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyasrush/ts-ger/issues"
+  },
+  "homepage": "https://github.com/tyasrush/ts-ger#readme",
+  "dependencies": {
+    "rxjs": "^7.5.5",
+    "typescript": "^4.6.3"
+  }
+}
